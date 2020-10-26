@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/githubrepoes/static/css/main.d1ada218.chunk.css",
+    "main.js": "/githubrepoes/static/js/main.606cee32.chunk.js",
+    "main.js.map": "/githubrepoes/static/js/main.606cee32.chunk.js.map",
+    "runtime-main.js": "/githubrepoes/static/js/runtime-main.c049c3fd.js",
+    "runtime-main.js.map": "/githubrepoes/static/js/runtime-main.c049c3fd.js.map",
+    "static/css/2.2a86faee.chunk.css": "/githubrepoes/static/css/2.2a86faee.chunk.css",
+    "static/js/2.a130bd9a.chunk.js": "/githubrepoes/static/js/2.a130bd9a.chunk.js",
+    "static/js/2.a130bd9a.chunk.js.map": "/githubrepoes/static/js/2.a130bd9a.chunk.js.map",
+    "index.html": "/githubrepoes/index.html",
+    "precache-manifest.e97936dc4d2565238c06e62be3bb943f.js": "/githubrepoes/precache-manifest.e97936dc4d2565238c06e62be3bb943f.js",
+    "service-worker.js": "/githubrepoes/service-worker.js",
+    "static/css/2.2a86faee.chunk.css.map": "/githubrepoes/static/css/2.2a86faee.chunk.css.map",
+    "static/css/main.d1ada218.chunk.css.map": "/githubrepoes/static/css/main.d1ada218.chunk.css.map",
+    "static/js/2.a130bd9a.chunk.js.LICENSE.txt": "/githubrepoes/static/js/2.a130bd9a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c049c3fd.js",
+    "static/css/2.2a86faee.chunk.css",
+    "static/js/2.a130bd9a.chunk.js",
+    "static/css/main.d1ada218.chunk.css",
+    "static/js/main.606cee32.chunk.js"
+  ]
+}
